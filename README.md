@@ -1,4 +1,6 @@
 # TsukuBRdGothic Std
+[筑紫A丸](https://github.com/Zolyn/TsukuARdGothic-Std) | 筑紫B丸
+
 筑紫B丸ゴシック 5字重，原作者：宁静之雨
 
 本仓库是在 PC 端上使用筑紫B丸ゴシック字体的一次尝试，由于原作者分享的ttf文件只有Regular字重，所以打算从 Magisk 模块中提取字体
